@@ -1,0 +1,36 @@
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Build folders (MCUXpresso / NXP)
+Debug/
+Release/
+build/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables and Binaries
+*.exe
+*.out
+*.app
+*.elf
+*.bin
+*.hex
+*.axf
+
+.metadata/
