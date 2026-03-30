@@ -6,7 +6,12 @@ This repository contains the control logic and hardware configuration for an aut
 ⏱️ **Best Lap Time:** 20.6 seconds
 
 ## 📸 Project Showcase
-****
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=XaZLE-19FP8">
+    <img src="https://img.youtube.com/vi/XaZLE-19FP8/0.jpg" alt="NXP Line Follower Demo" width="600">
+  </a>
+</p>
 
 ## ⚙️ Hardware Overview
 Based on the official NXP Cup Line Follower kit, the robot was assembled and programmed using the following components:
